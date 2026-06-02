@@ -1,6 +1,6 @@
-# Product Requirements Document
+# Escrow Smart Contract Product Requirements Document
 
-[Website](https://coxygen.co/universities/zonke/dev/escrow-lucid-v4)
+[Zonke Escrow Website](https://coxygen.co/universities/zonke/dev/escrow-lucid-v4)
 
 ## Cardano Escrow dApp (Lucid Off-Chain Version)
 
